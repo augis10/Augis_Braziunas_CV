@@ -1,5 +1,0 @@
-http://www.pilotclub.eu/testai/aerodinamika/
-http://www.pilotclub.eu/testai/navigacija/
-http://www.pilotclub.eu/testai/meteorologija/
-http://www.pilotclub.eu/testai/skrydziu-charakteristikos-ir-planavimas-skrydziu-proceduros-ir-sauga/
-http://www.pilotclub.eu/testai/radijo-rysys/
