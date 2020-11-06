@@ -1,0 +1,21 @@
+.email{
+    overflow-wrap: break-word;
+}
+.page{
+    max-width: 25cm;
+}
+
+.skills{
+    margin: 3px;
+}
+.qoute{
+    width: 50%;
+}
+
+.gPhoto{
+    max-width: 280px;
+}
+.perPhoto{
+    width:80%; 
+    margin: 15px;
+}
